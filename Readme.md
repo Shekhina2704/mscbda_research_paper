@@ -8,19 +8,18 @@ This is a repository for the students of St.Joseph's college working under me.
 
 # Student information:
 
-Prediction of depression levels	19BDA71006	BHAKYA LAKSHMI
-Prediction of depression levels	19BDA71036	DESMOND GRACIAN REBELLO
-Prediction of depression levels	19BDA71041	CHOEZIN TSERING
-
-Fake news detection	19BDA71031	M SAI RAJ
-Fake news detection	19BDA71051	SATWIK SATYAPAL SHETTY
-Fake news detection 	19BDA71047	KATHERINE JIMMY
-
-Cyber Bullying	19BDA71007	SANDRA SUSAN GEORGE
-Cyber Bullying	19BDA71023	YERASI VENKAT GOKUL REDDY
-Cyber Bullying	19BDA71038	KUNKUM.N.P
-
-Metadata Tagging	19BDA71011	RAKSHITH R.P
-Metadata Tagging	19BDA71027	SARVESH KUMAR THAPA
-Metadata Tagging	19BDA71053	DAWN ELZA ZACHARIAH
+| Research Topic                  | Roll Number | Student Name              |
+|---------------------------------|-------------|---------------------------|
+| Prediction of depression levels | 19BDA71006  | BHAKYA LAKSHMI            |
+| Prediction of depression levels | 19BDA71036  | DESMOND GRACIAN REBELLO   |
+| Prediction of depression levels | 19BDA71041  | CHOEZIN TSERING           |
+| Fake news detection             | 19BDA71031  | M SAI RAJ                 |
+| Fake news detection             | 19BDA71051  | SATWIK SATYAPAL SHETTY    |
+| Fake news detection             | 19BDA71047  | KATHERINE JIMMY           |
+| Cyber Bullying                  | 19BDA71007  | SANDRA SUSAN GEORGE       |
+| Cyber Bullying                  | 19BDA71023  | YERASI VENKAT GOKUL REDDY |
+| Cyber Bullying                  | 19BDA71038  | KUNKUM.N.P                |
+| Metadata Tagging                | 19BDA71011  | RAKSHITH R.P              |
+| Metadata Tagging                | 19BDA71027  | SARVESH KUMAR THAPA       |
+| Metadata Tagging                | 19BDA71053  | DAWN ELZA ZACHARIAH       |
 
